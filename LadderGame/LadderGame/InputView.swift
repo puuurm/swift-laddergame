@@ -21,5 +21,4 @@ struct InputView {
         self.height = Int(m) ?? 0
         return (self.names, self.height)
     }
-
 }
